@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandbergPD
 - 👀 I’m interested in Python, data analytics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything that can get me rel world experience, and get me into the job market quickest
+- 💞️ I’m looking to collaborate on anything that can get me real world experience, and get me into the job market quickest
 - 📫 How to reach me SandbergPD@gmail.com is easiest, but I currently revamping my linkedin, so hopefully there soon!
 
   I am a blue collar worker, having experience in culinary and being an electrician, but have recently found a passion for IT. 
