@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandbergPD
 - 👀 I’m interested in Python, data analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning the ins and outs of intergrating python into my data analysis processes
 - 💞️ I’m looking to collaborate on anything that can get me real world experience, and get me into the job market quickest
 - 📫 How to reach me SandbergPD@gmail.com is easiest, but I currently revamping my linkedin, so hopefully there soon!
 
